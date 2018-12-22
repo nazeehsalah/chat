@@ -1,5 +1,7 @@
 {
   "name": "chatingApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
